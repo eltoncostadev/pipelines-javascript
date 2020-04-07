@@ -1,4 +1,5 @@
 var assert = require('assert');
+var change = 'changed';
 
 describe('String', function () {
     describe('#indexOf', function () {
